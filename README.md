@@ -1,4 +1,4 @@
-![image](https://github.com/Rainylaki/algoritmika_python/assets/131951781/e1e6b99d-f051-4c97-9ec6-baaaefb9a9cc)![image](https://github.com/Rainylaki/algoritmika_python/assets/131951781/ffa349f2-d472-43a1-9e39-c0c292d7156a)# Snake ![https://github.com/locustdm/algoritmika_python/blob/main/task3.md](https://thumbs.gfycat.com/HeavenlyWanHornedviper-max-1mb.gif)
+# Snake ![https://github.com/locustdm/algoritmika_python/blob/main/task3.md](https://thumbs.gfycat.com/HeavenlyWanHornedviper-max-1mb.gif)
 [Ссылка на игру]()\
 **Жанр**: Аркада\
 **Разработчик**: Rainylaki\
