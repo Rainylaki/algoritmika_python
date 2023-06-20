@@ -1,4 +1,4 @@
-# Exotic Hunting ![https://github.com/locustdm/algoritmika_python/blob/main/task3.md](https://thumbs.gfycat.com/HeavenlyWanHornedviper-max-1mb.gif)
+# Snake ![https://github.com/locustdm/algoritmika_python/blob/main/task3.md](https://thumbs.gfycat.com/HeavenlyWanHornedviper-max-1mb.gif)
 [Ссылка на игру]()\
 **Жанр**: Выживание, исследования\
 **Разработчик**: Sara\
