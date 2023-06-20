@@ -8,8 +8,8 @@
 
 |требование |характеристика                           |
 |-          |-                                        |
-|OS         |Windows XP/Vista/Windows 7/Windows 8     |
-|Processor  | Intel 4                                 |
+|OS         |Windows 10                               |
+|Processor  |Intel 4                                  |
 |Memory     |1 MB ОЗУ                                 |
 |Graphics   |Radeon HD5450 or better; 256 MB or higher|
 |Hard Drive |45 MB                                    |
