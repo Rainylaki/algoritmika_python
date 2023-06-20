@@ -19,7 +19,7 @@
 - Со ввреминем змея становиться быстрее
 
 **О разработчике:**
-Наш мир фантастичен. Это идея посетила меня при разработке данной игры.
+есть Discort, любит рисовать
 
 ![Территория](https://img.itch.zone/aW1nLzUxMzU1NDgucG5n/original/cIOU%2FP.png) \
 ![Котик](https://img.itch.zone/aW1nLzYxMzA0MjIuZ2lm/original/x7XLh2.gif) \
